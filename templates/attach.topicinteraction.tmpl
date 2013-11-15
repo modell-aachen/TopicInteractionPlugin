@@ -1,0 +1,19 @@
+%TMPL:INCLUDE{"attach"}%
+%TMPL:INCLUDE{"metadata"}%
+
+%TMPL:DEF{"attachments::hidden"}%%URLPARAM{"attachments_hidden" default="on"}%%TMPL:END%
+%TMPL:DEF{"attachments::showuploader"}%%URLPARAM{"attachments_showuploader" default="on"}%%TMPL:END%
+
+%TMPL:DEF{"content"}%<!-- content -->
+<div class="foswikiMetaData %IF{"not '%WEB%.%TOPIC%' allows 'change'" then="foswikiMetaDataNotAllowed"}%">
+%BUTTON{
+  "%MAKETEXT{"Close"}%" 
+  class="foswikiRight simple"
+  target="%BASEWEB%.%BASETOPIC%" 
+  icon="cross"
+}%
+<div>%TMPL:P{"attachments"}%</div>
+%TMPL:P{"metadata::css"}%
+%TMPL:P{"metadata::javascript"}%
+</div>
+<!-- //content -->%TMPL:END%
