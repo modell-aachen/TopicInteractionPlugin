@@ -16,47 +16,47 @@ msgstr ""
 
 #: templates/metadata.tmpl
 msgid "Attach files"
-msgstr ""
+msgstr "Allegati"
 
 #: templates/metadata.tmpl
 msgid "Attachments %1"
-msgstr ""
+msgstr "Allegati %1"
 
 #: templates/metadata.tmpl
 msgid "Author"
-msgstr ""
+msgstr "Autore"
 
 #: templates/metadata.tmpl
 msgid "Cancel"
-msgstr ""
+msgstr "Cancellare"
 
 #: templates/metadata.tmpl
 msgid "Cancel upload"
-msgstr ""
+msgstr "Cancellare upload"
 
 #: templates/metadata.tmpl
 msgid "Choose files"
-msgstr ""
+msgstr "Scegliere files"
 
 #: templates/metadata.tmpl
 msgid "Clear all"
-msgstr ""
+msgstr "Cancellare"
 
 #: templates/metadata.tmpl
 msgid "Close"
-msgstr ""
+msgstr "Chiudere"
 
 #: templates/metadata.tmpl
 msgid "Comment"
-msgstr ""
+msgstr "Commento"
 
 #: templates/metadata.tmpl
 msgid "Comments %1"
-msgstr ""
+msgstr "Commenti %1"
 
 #: templates/metadata.tmpl
 msgid "Confirmation required"
-msgstr ""
+msgstr "Richiesta di conferma"
 
 #: templates/metadata.tmpl
 msgid "Create a <b>link</b> to the attached files at the end of the topic."
@@ -64,43 +64,43 @@ msgstr ""
 
 #: templates/metadata.tmpl
 msgid "Create image gallery"
-msgstr ""
+msgstr "Creare galleria di immagini"
 
 #: templates/metadata.tmpl
 msgid "Creating image gallery"
-msgstr ""
+msgstr "Creazione galleria di immagini"
 
 #: templates/metadata.tmpl
 msgid "Creating links"
-msgstr ""
+msgstr "Creazione links"
 
 #: templates/metadata.tmpl
 msgid "Data form"
-msgstr ""
+msgstr "Modulo dati"
 
 #: templates/metadata.tmpl
 msgid "Date"
-msgstr ""
+msgstr "Data"
 
 #: templates/metadata.tmpl
 msgid "Delete"
-msgstr ""
+msgstr "Cancellare"
 
 #: templates/metadata.tmpl
 msgid "Delete attachment?"
-msgstr ""
+msgstr "Cancellare allegati?"
 
 #: templates/metadata.tmpl
 msgid "Delete this attachment"
-msgstr ""
+msgstr "Cancellare allegato"
 
 #: templates/metadata.tmpl
 msgid "Deleting"
-msgstr ""
+msgstr "Cancellazione"
 
 #: templates/metadata.tmpl
 msgid "Display hidden"
-msgstr ""
+msgstr "Mostrare gli elementi nascosti"
 
 #: templates/metadata.tmpl
 msgid "Do you really want to create an image gallery for %1 attachment(s)?"
@@ -136,19 +136,19 @@ msgstr ""
 
 #: templates/metadata.tmpl
 msgid "Drag files here"
-msgstr ""
+msgstr "Trascinare i files qui"
 
 #: templates/metadata.tmpl
 msgid "Edit attachment"
-msgstr ""
+msgstr "Modificare allegato"
 
 #: templates/metadata.tmpl
 msgid "Edit form"
-msgstr ""
+msgstr "Modificare modulo"
 
 #: templates/metadata.tmpl
 msgid "Edit properties of this attachment"
-msgstr ""
+msgstr "Modificare le prorpietà dell'allegato"
 
 #: templates/metadata.tmpl
 msgid "Edit this !DataForm"
@@ -156,127 +156,127 @@ msgstr ""
 
 #: templates/metadata.tmpl
 msgid "Enable/disable displaying hidden attachments"
-msgstr ""
+msgstr "Abilita/disabilita la visione degli allegati nascosti"
 
 #: templates/metadata.tmpl
 msgid "Enter a search pattern to filter the list of attachments"
-msgstr ""
+msgstr "Inserire un percorso di ricerca per filtrare la lista degli allegati"
 
 #: templates/metadata.tmpl
 msgid "File name"
-msgstr ""
+msgstr "Nome del documento"
 
 #: templates/metadata.tmpl
 msgid "Help"
-msgstr ""
+msgstr "Aiuto"
 
 #: templates/metadata.tmpl
 msgid "Hide"
-msgstr ""
+msgstr "Nascondere"
 
 #: templates/metadata.tmpl
 msgid "Hide attachment in normal topic view."
-msgstr ""
+msgstr "In view normale nascondere l'allegato"
 
 #: templates/metadata.tmpl
 msgid "Hide options"
-msgstr ""
+msgstr "Opzioni nascoste"
 
 #: templates/metadata.tmpl
 msgid "Hiding"
-msgstr ""
+msgstr "Nascondere"
 
 #: templates/metadata.tmpl
 msgid "Insert links"
-msgstr ""
+msgstr "Inserire links"
 
 #: templates/metadata.tmpl
 msgid "More actions"
-msgstr ""
+msgstr "Più azioni"
 
 #: templates/metadata.tmpl
 msgid "Move"
-msgstr ""
+msgstr "Spostare"
 
 #: templates/metadata.tmpl
 msgid "Move attachment(s) to a different topic"
-msgstr ""
+msgstr "Spostare allegato(i) in un argomento differente"
 
 #: templates/metadata.tmpl
 msgid "Move this attachment to a different topic"
-msgstr ""
+msgstr "Spostare l' allegato in un argomento differente"
 
 #: templates/metadata.tmpl
 msgid "Name"
-msgstr ""
+msgstr "Nome"
 
 #: templates/metadata.tmpl
 msgid "No, thanks"
-msgstr ""
+msgstr "No, grazie"
 
 #: templates/metadata.tmpl
 msgid "Options"
-msgstr ""
+msgstr "Opzioni"
 
 #: templates/metadata.tmpl
 msgid "Preview"
-msgstr ""
+msgstr "Anteprima"
 
 #: templates/metadata.tmpl
 msgid "Preview this attachment"
-msgstr ""
+msgstr "Antemprima allegato"
 
 #: templates/metadata.tmpl
 msgid "Read more about Data Forms"
-msgstr ""
+msgstr "Leggere circa Data Forms"
 
 #: templates/metadata.tmpl
 msgid "Results per page"
-msgstr ""
+msgstr "Risultati per pagina"
 
 #: templates/metadata.tmpl
 msgid "Save"
-msgstr ""
+msgstr "Salvare"
 
 #: templates/metadata.tmpl
 msgid "Search"
-msgstr ""
+msgstr "Ricercare"
 
 #: templates/metadata.tmpl
 msgid "Select all"
-msgstr ""
+msgstr "Selezionare tutto"
 
 #: templates/metadata.tmpl
 msgid "Show options"
-msgstr ""
+msgstr "Mostrare opzioni"
 
 #: templates/metadata.tmpl
 msgid "Show/hide advanced options"
-msgstr ""
+msgstr "Mostrare/nascondere opzioni avanzate"
 
 #: templates/metadata.tmpl
 msgid "Size"
-msgstr ""
+msgstr "Dimensione"
 
 #: templates/metadata.tmpl
 msgid "Sort by"
-msgstr ""
+msgstr "Estrarre per"
 
 #: templates/metadata.tmpl
 msgid "Start upload"
-msgstr ""
+msgstr "Inizia upload"
 
 #: templates/metadata.tmpl
 msgid "Start upload immediately"
-msgstr ""
+msgstr "Inizia upload immediatamente"
 
 #: templates/metadata.tmpl
 msgid "The new topic chosen must already exist."
-msgstr ""
+msgstr "Il nuovo argomento scelto esiste già"
 
 #: templates/metadata.tmpl
 msgid "This comment will be added to every uploaded file."
-msgstr ""
+msgstr "Questo commento sarà aggiunto a ogni file caricato"
 
 #: templates/metadata.tmpl
 msgid "To topic"
@@ -288,15 +288,15 @@ msgstr ""
 
 #: templates/metadata.tmpl
 msgid "Unhide"
-msgstr ""
+msgstr "Scopri"
 
 #: templates/metadata.tmpl
 msgid "Unhiding"
-msgstr ""
+msgstr "Mostrare i"
 
 #: templates/metadata.tmpl
 msgid "Upload files and images to this topic"
-msgstr ""
+msgstr "Caricare documenti e immagini in questo argomento"
 
 #: templates/metadata.tmpl
 msgid "Version %1 uploaded by %2 on %3"
@@ -304,51 +304,51 @@ msgstr ""
 
 #: templates/metadata.tmpl
 msgid "Yes, delete"
-msgstr ""
+msgstr "Sì, cancella"
 
 #: templates/metadata.tmpl
 msgid "Yes, please"
-msgstr ""
+msgstr "Sì, per favore"
 
 #: templates/metadata.tmpl
 msgid "all"
-msgstr ""
+msgstr "tutto"
 
 #: lib/Foswiki/Plugins/TopicInteractionPlugin/Attachments.pm
 msgid "delete"
-msgstr ""
+msgstr "cancellare"
 
 #: lib/Foswiki/Plugins/TopicInteractionPlugin/Attachments.pm
 msgid "delete %1"
-msgstr ""
+msgstr "Cancellare 1%"
 
 #: lib/Foswiki/Plugins/TopicInteractionPlugin/Attachments.pm
 msgid "edit"
-msgstr ""
+msgstr "modificare"
 
 #: templates/metadata.tmpl
 msgid "hide other revisions"
-msgstr ""
+msgstr "nascondere le atre revisioni"
 
 #: templates/metadata.tmpl
 msgid "less"
-msgstr ""
+msgstr "meno"
 
 #: lib/Foswiki/Plugins/TopicInteractionPlugin/Attachments.pm
 msgid "manage properties of %1"
-msgstr ""
+msgstr "gestire le proprietà 1%"
 
 #: templates/metadata.tmpl
 msgid "more"
-msgstr ""
+msgstr "di più"
 
 #: lib/Foswiki/Plugins/TopicInteractionPlugin/Attachments.pm
 msgid "move"
-msgstr ""
+msgstr "spostare"
 
 #: lib/Foswiki/Plugins/TopicInteractionPlugin/Attachments.pm
 msgid "move or delete %1"
-msgstr ""
+msgstr "spostare o cancellare 1%"
 
 #: lib/Foswiki/Plugins/TopicInteractionPlugin/Attachments.pm
 msgid "props"
@@ -356,12 +356,12 @@ msgstr ""
 
 #: templates/metadata.tmpl
 msgid "select all attachments on this topic"
-msgstr ""
+msgstr "selezionare tutti gli allegati dell'argomento"
 
 #: templates/metadata.tmpl
 msgid "show previous revisions"
-msgstr ""
+msgstr "mostrare le precedenti revisioni "
 
 #: templates/metadata.tmpl
 msgid "unselect all previously select attachments"
-msgstr ""
+msgstr "deselezionare tutti gli allegati precedentemente selezionati"
