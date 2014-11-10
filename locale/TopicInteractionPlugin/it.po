@@ -1,3 +1,19 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-11-10 15:56+0200\n"
+"PO-Revision-Date: 2014-11-10 15:56+0200\n"
+"Last-Translator: Modell Aachen <access@modell-aachen.de>\n"
+"Language-Team: Italian <http://translate.modell-"
+"aachen.de/projects/topicinteractionplugin/releasenew-york/it/>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 1.9\n"
+
 #: templates/metadata.tmpl
 msgid "%1 attachment(s)"
 msgstr ""
@@ -176,7 +192,7 @@ msgstr "Nascondere"
 
 #: templates/metadata.tmpl
 msgid "Hide attachment in normal topic view."
-msgstr "In view normale nascondere l'allegato"
+msgstr "In view normale nascondere l'allegato."
 
 #: templates/metadata.tmpl
 msgid "Hide options"
@@ -272,11 +288,11 @@ msgstr "Inizia upload immediatamente"
 
 #: templates/metadata.tmpl
 msgid "The new topic chosen must already exist."
-msgstr "Il nuovo argomento scelto esiste già"
+msgstr "Il nuovo argomento scelto esiste già."
 
 #: templates/metadata.tmpl
 msgid "This comment will be added to every uploaded file."
-msgstr "Questo commento sarà aggiunto a ogni file caricato"
+msgstr "Questo commento sarà aggiunto a ogni file caricato."
 
 #: templates/metadata.tmpl
 msgid "To topic"
@@ -360,7 +376,7 @@ msgstr "selezionare tutti gli allegati dell'argomento"
 
 #: templates/metadata.tmpl
 msgid "show previous revisions"
-msgstr "mostrare le precedenti revisioni "
+msgstr "mostrare le precedenti revisioni"
 
 #: templates/metadata.tmpl
 msgid "unselect all previously select attachments"
