@@ -10,15 +10,15 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=ASCII\n"
-"Content-Transfer-Encoding: 8bit\n"
 "Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: templates/metadata.tmpl
 msgid "%1 attachment(s)"
-msgstr ""
+msgstr "csatolmány(ok)"
 
 #: templates/metadata.tmpl
 msgid "<a href='%1'>Version %2</a> uploaded by %3 on %4"
@@ -30,51 +30,51 @@ msgstr ""
 
 #: templates/metadata.tmpl
 msgid "Are you sure that you want to delete %1?"
-msgstr ""
+msgstr "Biztos, hogy törölni akarod %1?"
 
 #: templates/metadata.tmpl
 msgid "Attach files"
-msgstr ""
+msgstr "File csatolása"
 
 #: templates/metadata.tmpl
 msgid "Attachments %1"
-msgstr ""
+msgstr "Csatolmány(ok)"
 
 #: templates/metadata.tmpl
 msgid "Author"
-msgstr ""
+msgstr "Szerző"
 
 #: templates/metadata.tmpl
 msgid "Cancel"
-msgstr ""
+msgstr "Visszavonás"
 
 #: templates/metadata.tmpl
 msgid "Cancel upload"
-msgstr ""
+msgstr "Feltöltés visszavonása"
 
 #: templates/metadata.tmpl
 msgid "Choose files"
-msgstr ""
+msgstr "File választása"
 
 #: templates/metadata.tmpl
 msgid "Clear all"
-msgstr ""
+msgstr "Elvetés mind"
 
 #: templates/metadata.tmpl
 msgid "Close"
-msgstr ""
+msgstr "Bezárás"
 
 #: templates/metadata.tmpl
 msgid "Comment"
-msgstr ""
+msgstr "Megjegyzés"
 
 #: templates/metadata.tmpl
 msgid "Comments %1"
-msgstr ""
+msgstr "Megjegyzések"
 
 #: templates/metadata.tmpl
 msgid "Confirmation required"
-msgstr ""
+msgstr "Megerősítés szükséges"
 
 #: templates/metadata.tmpl
 msgid "Create a <b>link</b> to the attached files at the end of the topic."
@@ -82,99 +82,99 @@ msgstr ""
 
 #: templates/metadata.tmpl
 msgid "Create image gallery"
-msgstr ""
+msgstr "Hozz létre képtárat"
 
 #: templates/metadata.tmpl
 msgid "Creating image gallery"
-msgstr ""
+msgstr "Képtár létrehozása"
 
 #: templates/metadata.tmpl
 msgid "Creating links"
-msgstr ""
+msgstr "Link létrehozása"
 
 #: templates/metadata.tmpl
 msgid "Data form"
-msgstr ""
+msgstr "Adatforma"
 
 #: templates/metadata.tmpl
 msgid "Date"
-msgstr ""
+msgstr "Dátum"
 
 #: templates/metadata.tmpl
 msgid "Delete"
-msgstr ""
+msgstr "Töröl"
 
 #: templates/metadata.tmpl
 msgid "Delete attachment?"
-msgstr ""
+msgstr "Csatolmány törlése?"
 
 #: templates/metadata.tmpl
 msgid "Delete this attachment"
-msgstr ""
+msgstr "Töröld ezt a csatolmányt"
 
 #: templates/metadata.tmpl
 msgid "Deleting"
-msgstr ""
+msgstr "Törlés"
 
 #: templates/metadata.tmpl
 msgid "Display hidden"
-msgstr ""
+msgstr "Képernyő elrejtése"
 
 #: templates/metadata.tmpl
 msgid "Do you really want to create an image gallery for %1 attachment(s)?"
-msgstr ""
+msgstr "Valóban létrehozol képtárat a csatolmányhoz?"
 
 #: templates/metadata.tmpl
 msgid "Do you really want to create links to %1 attachment(s)?"
-msgstr ""
+msgstr "Valóban létrehozol link-et a csatolmányhoz?"
 
 #: templates/metadata.tmpl
 msgid "Do you really want to delete %1 attachment(s)?"
-msgstr ""
+msgstr "Valóban törölni akarod a csatolmányt?"
 
 #: templates/metadata.tmpl
 msgid "Do you really want to download %1 attachment(s)?"
-msgstr ""
+msgstr "Valóban letöltöd a csatolmányt?"
 
 #: templates/metadata.tmpl
 msgid "Do you really want to hide %1 attachment(s)?"
-msgstr ""
+msgstr "Valóban elrejted a csatolmányt?"
 
 #: templates/metadata.tmpl
 msgid "Do you really want to unhide %1 attachment(s)?"
-msgstr ""
+msgstr "Valóban felfeded a csatolmányt?"
 
 #: templates/metadata.tmpl
 msgid "Download"
-msgstr ""
+msgstr "Letölt"
 
 #: templates/metadata.tmpl
 msgid "Downloading"
-msgstr ""
+msgstr "Letöltés"
 
 #: templates/metadata.tmpl
 msgid "Drag files here"
-msgstr ""
+msgstr "File húzása ide"
 
 #: templates/metadata.tmpl
 msgid "Edit attachment"
-msgstr ""
+msgstr "Csatolmány szerkesztése"
 
 #: templates/metadata.tmpl
 msgid "Edit form"
-msgstr ""
+msgstr "Alakzat szerkesztése"
 
 #: templates/metadata.tmpl
 msgid "Edit properties of this attachment"
-msgstr ""
+msgstr "Csatolmány tulajdonságainak szerkesztése"
 
 #: templates/metadata.tmpl
 msgid "Edit this !DataForm"
-msgstr ""
+msgstr "Szerkeszd ezt a !DataForm"
 
 #: templates/metadata.tmpl
 msgid "Enable/disable displaying hidden attachments"
-msgstr ""
+msgstr "Engedélyez/Megtilt a rejtett csatolmányok megtekintése"
 
 #: templates/metadata.tmpl
 msgid "Enter a search pattern to filter the list of attachments"
@@ -182,139 +182,139 @@ msgstr ""
 
 #: templates/metadata.tmpl
 msgid "File name"
-msgstr ""
+msgstr "Filenév"
 
 #: templates/metadata.tmpl
 msgid "Help"
-msgstr ""
+msgstr "Segítség"
 
 #: templates/metadata.tmpl
 msgid "Hide"
-msgstr ""
+msgstr "Elrejt"
 
 #: templates/metadata.tmpl
 msgid "Hide attachment in normal topic view."
-msgstr ""
+msgstr "Rejtsd el a csatolmányt a téma nézetben"
 
 #: templates/metadata.tmpl
 msgid "Hide options"
-msgstr ""
+msgstr "Elrejtési lehetőségek"
 
 #: templates/metadata.tmpl
 msgid "Hiding"
-msgstr ""
+msgstr "Elrejtés"
 
 #: templates/metadata.tmpl
 msgid "Insert links"
-msgstr ""
+msgstr "Link beszúrása"
 
 #: templates/metadata.tmpl
 msgid "More actions"
-msgstr ""
+msgstr "További műveletek"
 
 #: templates/metadata.tmpl
 msgid "Move"
-msgstr ""
+msgstr "Mozgat"
 
 #: templates/metadata.tmpl
 msgid "Move attachment(s) to a different topic"
-msgstr ""
+msgstr "Mozgasd a csatolmányt egy másik témához"
 
 #: templates/metadata.tmpl
 msgid "Move this attachment to a different topic"
-msgstr ""
+msgstr "Mozgasd ezt a csatolmányt egy másik témához"
 
 #: templates/metadata.tmpl
 msgid "Name"
-msgstr ""
+msgstr "Név"
 
 #: templates/metadata.tmpl
 msgid "No, thanks"
-msgstr ""
+msgstr "Nem, köszönöm"
 
 #: templates/metadata.tmpl
 msgid "Options"
-msgstr ""
+msgstr "Lehetőségek"
 
 #: templates/metadata.tmpl
 msgid "Preview"
-msgstr ""
+msgstr "Megtekintés"
 
 #: templates/metadata.tmpl
 msgid "Preview this attachment"
-msgstr ""
+msgstr "A csatolmány megtekintése"
 
 #: templates/metadata.tmpl
 msgid "Read more about Data Forms"
-msgstr ""
+msgstr "További információk a Data Form-ról"
 
 #: templates/metadata.tmpl
 msgid "Results per page"
-msgstr ""
+msgstr "Találatok oldalanként"
 
 #: templates/metadata.tmpl
 msgid "Save"
-msgstr ""
+msgstr "Ment"
 
 #: templates/metadata.tmpl
 msgid "Search"
-msgstr ""
+msgstr "Keres"
 
 #: templates/metadata.tmpl
 msgid "Select all"
-msgstr ""
+msgstr "Összes kijelölése"
 
 #: templates/metadata.tmpl
 msgid "Show options"
-msgstr ""
+msgstr "Mutasd a lehetőségeket"
 
 #: templates/metadata.tmpl
 msgid "Show/hide advanced options"
-msgstr ""
+msgstr "Mutasd/rejtsd el a lehetőségeket"
 
 #: templates/metadata.tmpl
 msgid "Size"
-msgstr ""
+msgstr "Méretezés"
 
 #: templates/metadata.tmpl
 msgid "Sort by"
-msgstr ""
+msgstr "Csoportosítás"
 
 #: templates/metadata.tmpl
 msgid "Start upload"
-msgstr ""
+msgstr "Feltöltés megkezdése"
 
 #: templates/metadata.tmpl
 msgid "Start upload immediately"
-msgstr ""
+msgstr "Azonnali feltöltés"
 
 #: templates/metadata.tmpl
 msgid "The new topic chosen must already exist."
-msgstr ""
+msgstr "A kiválasztott új téma már létezik."
 
 #: templates/metadata.tmpl
 msgid "This comment will be added to every uploaded file."
-msgstr ""
+msgstr "Ez a megjegyzés csatolódik minden feltöltött file-hoz."
 
 #: templates/metadata.tmpl
 msgid "To topic"
-msgstr ""
+msgstr "Témához"
 
 #: templates/metadata.tmpl
 msgid "To web"
-msgstr ""
+msgstr "Internethez"
 
 #: templates/metadata.tmpl
 msgid "Unhide"
-msgstr ""
+msgstr "Felfed"
 
 #: templates/metadata.tmpl
 msgid "Unhiding"
-msgstr ""
+msgstr "Felfedés"
 
 #: templates/metadata.tmpl
 msgid "Upload files and images to this topic"
-msgstr ""
+msgstr "Tölts fel file-t és képet ehhez a témához"
 
 #: templates/metadata.tmpl
 msgid "Version %1 uploaded by %2 on %3"
@@ -322,35 +322,35 @@ msgstr ""
 
 #: templates/metadata.tmpl
 msgid "Yes, delete"
-msgstr ""
+msgstr "Igen, töröl"
 
 #: templates/metadata.tmpl
 msgid "Yes, please"
-msgstr ""
+msgstr "Igen, kérem"
 
 #: templates/metadata.tmpl
 msgid "all"
-msgstr ""
+msgstr "összes"
 
 #: lib/Foswiki/Plugins/TopicInteractionPlugin/Attachments.pm
 msgid "delete"
-msgstr ""
+msgstr "töröl"
 
 #: lib/Foswiki/Plugins/TopicInteractionPlugin/Attachments.pm
 msgid "delete %1"
-msgstr ""
+msgstr "töröl"
 
 #: lib/Foswiki/Plugins/TopicInteractionPlugin/Attachments.pm
 msgid "edit"
-msgstr ""
+msgstr "szerkeszt"
 
 #: templates/metadata.tmpl
 msgid "hide other revisions"
-msgstr ""
+msgstr "további felülvizsgálatok elrejtése"
 
 #: templates/metadata.tmpl
 msgid "less"
-msgstr ""
+msgstr "kevesebb"
 
 #: lib/Foswiki/Plugins/TopicInteractionPlugin/Attachments.pm
 msgid "manage properties of %1"
@@ -358,28 +358,28 @@ msgstr ""
 
 #: templates/metadata.tmpl
 msgid "more"
-msgstr ""
+msgstr "több"
 
 #: lib/Foswiki/Plugins/TopicInteractionPlugin/Attachments.pm
 msgid "move"
-msgstr ""
+msgstr "mozgat"
 
 #: lib/Foswiki/Plugins/TopicInteractionPlugin/Attachments.pm
 msgid "move or delete %1"
-msgstr ""
+msgstr "mozgat vagy töröl %1"
 
 #: lib/Foswiki/Plugins/TopicInteractionPlugin/Attachments.pm
 msgid "props"
-msgstr ""
+msgstr "props"
 
 #: templates/metadata.tmpl
 msgid "select all attachments on this topic"
-msgstr ""
+msgstr "válaszd az összes csatolmányt ezen témánál"
 
 #: templates/metadata.tmpl
 msgid "show previous revisions"
-msgstr ""
+msgstr "mutasd az előző felülvizsgálatokat"
 
 #: templates/metadata.tmpl
 msgid "unselect all previously select attachments"
-msgstr ""
+msgstr "ne válaszd ki az összes előzőleg kiválasztott csatolmányt"
